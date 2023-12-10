@@ -1,1 +1,1 @@
-Please extract the archives in format *.xpi (Firefox extension) and go to into browser add "about:debugging" , set "This Firefox" and load the extension.
+Please extract the archives in format *.xpi (Firefox extension) and go to into browser add "about:debugging" , set "This Firefox" and load the extension. In case of Google Chrome browser acess the page "chrome://extensions"  and select "Developer Mode" and after select "Load unpacked", and load the directory of the extension
